@@ -1,2 +1,2 @@
 # Hands4All
-This is a Sign Language Detection Project made using Python and Open CV that can be  used for American Sign Language Detection and can empower thousands of people across the Globe
+Hands4All a remarkable Python and OpenCV project designed to detect American Sign Language (ASL) gestures. This powerful tool holds the potential to empower individuals worldwide by promoting effective communication through ASL. By harnessing the capabilities of technology, Hands4All aims to make a positive impact by enabling thousands of people to communicate and connect through the beautiful language of signs.
